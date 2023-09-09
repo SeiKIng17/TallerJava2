@@ -19,7 +19,6 @@ public class Histograma {
                     valoresNegativos++;
                 }
             }
-
             System.out.println("Gráfico de valores ingresados:");
             System.out.print("Valores positivos: ");
             for (int i = 0; i < valoresPositivos; i++) {
